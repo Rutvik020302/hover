@@ -1,0 +1,12 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    transition: all 0.3s ease; /* Smooth transition */
+}
+
+.box:hover {
+    width: 200px;
+    height: 200px;
+    background-color: red; /* Change background color */
+}
